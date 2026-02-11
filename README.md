@@ -1,5 +1,5 @@
 - 👋 Hi, I'm **Gresi Singh**
-- 👀 I'm interested in opportunities to grow and contribute.
+- 👀 Data-driven Sales Analyst with experience in B2C analytics, KPI tracking, and dashboarding. Skilled in Excel, SQL, Power BI, and Python, with a strong focus on translating business problems into actionable insights.
 - 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/gresi-singh/) · [Email](mailto:gresisingh0@gmail.com)
 
 **➜ Resume & profile:** [View my resume page](https://gresisingh.github.io/page)
